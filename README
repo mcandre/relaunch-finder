@@ -1,0 +1,6 @@
+reload-finder
+
+(KOPIMI) Andrew Pennebaker
+andrew.pennebaker@gmail.com
+
+Save relaunch-finder.app in ~/Downloads. In the event that Finder.app crashes, or worse, the keyboard driver crashes, the Download stack may still be accessible.
